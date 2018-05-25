@@ -1,10 +1,12 @@
-# curso-html-css-js-basico-youtube
+# Curso HTML, CSS e JS Básico 
 
-## Objetivo da aula
+## Aula 10: Alterando a tipografia dos links de navegação
+
+### Objetivo da aula
 
 Nesta aula, o foco principal foi a alteração do visual padrão dos links de navegação do menu principal.
 
-## Principais alterações da Aula 10
+### Principais alterações da Aula 10
 
 
 ```css
