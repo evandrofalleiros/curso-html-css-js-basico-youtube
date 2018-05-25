@@ -28,3 +28,8 @@ Quatro propriedades tiveram os seus valores alterados. A seguir, listo e descrev
 - **background-position**: essa propriedade lhe permite alterar o posicionamento da imagem de fundo. No caso, deixei a imagem posicionada ao centro do elemento, tanto na horizontal, quanto na vertical;
 - **background-size**: com essa propriedade, você consegue alterar o tamanho da imagem de fundo. Utilizei o valor **cover**, que faz com que a imagem "cubra"/ocupe o fundo por completo;
 - **height**: por fim, essa propriedade representa a **altura** de um elemento. Utilizei o valor *580px*, que é a medida em *pixels* da altura do cabeçalho que [projetei no Photoshop](portifolio.psd).
+
+
+---
+
+Qualquer dúvida, entre em contato comigo pelo e-mail evandro.falleiros@ifms.edu.br. Até a próxima aula!
