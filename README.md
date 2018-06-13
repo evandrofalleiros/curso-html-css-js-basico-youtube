@@ -48,3 +48,13 @@ Link para aula no GitHub: *https://github.com/evandrofalleiros/curso-html-css-js
 [![Aula 08 - Introdução ao CSS](https://img.youtube.com/vi/Zl_lUoz7vY0/0.jpg)](https://youtu.be/Zl_lUoz7vY0?list=PLjbgOM5FYMGhkfnUjeIYvkRhyxaNXGZkg)
 
 Link para aula no GitHub: *https://github.com/evandrofalleiros/curso-html-css-js-basico-youtube/tree/aula-08*
+
+### Aula 09 - Imagens de fundo 
+[![Aula 09 - Imagens de fundo](https://img.youtube.com/vi/jrNKUZBTWkg/0.jpg)](https://youtu.be/jrNKUZBTWkg?list=PLjbgOM5FYMGhkfnUjeIYvkRhyxaNXGZkg)
+
+Link para aula no GitHub: *https://github.com/evandrofalleiros/curso-html-css-js-basico-youtube/tree/aula-09*
+
+### Aula 10 - Alterando a tipografia dos links de navegação
+[![Aula 10 - Alterando a tipografia dos links de navegação](https://img.youtube.com/vi/bTIDq0sWahg/0.jpg)](https://youtu.be/bTIDq0sWahg?list=PLjbgOM5FYMGhkfnUjeIYvkRhyxaNXGZkg)
+
+Link para aula no GitHub: *https://github.com/evandrofalleiros/curso-html-css-js-basico-youtube/tree/aula-10*
