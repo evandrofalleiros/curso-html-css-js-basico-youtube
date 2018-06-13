@@ -4,9 +4,17 @@
 
 ### Objetivo da aula
 
-Nesta aula, o foco principal foi a alteração do visual padrão dos links de navegação do menu principal.
+Nesta aula, o foco principal foi a alteração do visual padrão dos links de navegação do menu principal.  
 
-### Principais alterações da Aula 10
+### Conteúdo abordado
+
+Iniciamos, nesta aula, uma séria de alterações referentes à tipografia. Nesse sentido, todas as modificações visuais referentes ao conteúdo escrito serão abordadas gradualmente, aula a aula. Nesta aula, trabalhamos com as seguintes propriedades:
+
+* **color**: permite a alteração da *cor do texto*. **Atenção: não existem as propriedades color-font ou font-color**.
+* **font-size**: permite a alteração do *tamanho da fonte* (altura de cada caractere);
+* **font-weight**: permite a alteração do *peso da fonte* (negrito, por exemplo);
+* **text-decoration**: permite a alteração da *decoração em links de navegação* (aquela linha azul que fica sob os links);
+
 
 
 ```css
