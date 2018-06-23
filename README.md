@@ -58,3 +58,8 @@ Link para aula no GitHub: *https://github.com/evandrofalleiros/curso-html-css-js
 [![Aula 10 - Alterando a tipografia dos links de navegação](https://img.youtube.com/vi/bTIDq0sWahg/0.jpg)](https://youtu.be/bTIDq0sWahg?list=PLjbgOM5FYMGhkfnUjeIYvkRhyxaNXGZkg)
 
 Link para aula no GitHub: *https://github.com/evandrofalleiros/curso-html-css-js-basico-youtube/tree/aula-10*
+
+### Aula 11 - Classificação de elementos e o atributo class
+[![Aula 10 - Classificação de elementos e o atributo class](https://img.youtube.com/vi/REqNbYtRokQ/0.jpg)](https://youtu.be/REqNbYtRokQ?list=PLjbgOM5FYMGhkfnUjeIYvkRhyxaNXGZkg)
+
+Link para aula no GitHub: *https://github.com/evandrofalleiros/curso-html-css-js-basico-youtube/tree/aula-11*
