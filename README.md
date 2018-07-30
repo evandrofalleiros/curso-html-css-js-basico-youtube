@@ -12,7 +12,7 @@ Ao observarmos que os textos *EVANDRO* e *FALLEIROS*, que aparecem abaixo do log
 
 O atributo **id** permite que você **identifique** cada elemento **unicamente**. É importante lembrar que **nenhuma identificação pode ser repetida para mais de um elemento**. É só lembrar do CPF no Brasil: cada cidadão tem seu próprio número de identificação, que não é compartilhado por nenhum outro cidadão. 
 
-No lado do CSS, a *seleção por identificação* é realizada por meio do caractere *#* seguido do nome da identificação. Durante a aula, o seguinte exemplo foi apresentado:
+No lado do CSS, a **seleção por identificação** é realizada por meio do caractere *#* seguido do nome da identificação. Durante a aula, o seguinte exemplo foi apresentado:
 
 **Código HTML**
 ```html
