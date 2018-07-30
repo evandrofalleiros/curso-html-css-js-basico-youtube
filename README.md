@@ -12,13 +12,13 @@ Ao observarmos que os textos *EVANDRO* e *FALLEIROS*, que aparecem abaixo do log
 
 O atributo **id** permite que você **identifique** cada elemento **unicamente**. É importante lembrar que **nenhuma identificação pode ser repetida para mais de um elemento**. É só lembrar do CPF no Brasil: cada cidadão tem seu próprio número de identificação, que não é compartilhado por nenhum outro cidadão. 
 
-Durante a aula, o seguinte exemplo foi apresentado:
+No lado do CSS, a *seleção por identificação* é realizada por meio do caractere *#* seguido do nome da identificação. Durante a aula, o seguinte exemplo foi apresentado:
 
 **Código HTML**
 ```html
 
-<div>
-    <h1>EVANDRO<span class="rosa">FALLEIROS</span></h1>
+<div id="nome-profissao">
+    <h1 id="nome-principal">EVANDRO<span class="rosa">FALLEIROS</span></h1>
     <h2>DESENVOLVEDOR <span class="rosa">&</span> DESIGNER</h2>
 </div>
 
@@ -27,11 +27,17 @@ Durante a aula, o seguinte exemplo foi apresentado:
 **Código CSS**
 ```css
 
-.rosa{
-    color: #c44d85;
+#nome-profissao h1{
+    font-size: 16px;
+}
+
+#nome-principal{
+    font-weight: 300;
 }
 
 ```
 
-Note que ambos elementos *span* apresentam uma mesma classificação (rosa). No código CSS, você pode observar que a seleção destes dois elementos é feita uma única vez, por meio da seleção CSS **.rosa { ... }**. Com isso, todo elemento que tiver um atributo **class** com esse mesmo valor **rosa** irá compartilhar a mesma cor de fonte.
+Note que trabalhamos com a seleção por descendência quando separamos *#nome-profissao h1* por espaço. Nesse caso, fazemos a seleção de todos os elementos h1 descendentes de um elemento com identificação *nome-principal*. Isso,de certa forma, configura um comportamento no qual atributos visuais são compartilhados entre os elementos selecionados. 
+
+
 
