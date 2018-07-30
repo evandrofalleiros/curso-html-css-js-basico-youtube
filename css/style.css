@@ -24,3 +24,11 @@ nav a{
 .rosa{
     color: #c44d85;
 }
+
+#nome-profissao h1{
+    font-size: 16px;
+}
+
+#nome-principal{
+    font-weight: 300;
+}

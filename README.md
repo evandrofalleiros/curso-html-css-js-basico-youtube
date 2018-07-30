@@ -1,16 +1,18 @@
 # Curso HTML, CSS e JS Básico 
 
-## Aula 11: Classificação de elementos e o atributo class
+## Aula 12: Identificação de elementos e o atributo id
 
 ### Objetivo da aula
 
-Nesta aula, o objetivo principal é alterar propriedades visuais por meio da classificação de elementos (utilização do atributo class).  
+Nesta aula, o objetivo principal é alterar propriedades visuais por meio da identificação de elementos (utilização do atributo id).  
 
 ### Conteúdo abordado
 
-Ao observarmos que os textos *FALLEIROS* e *&*, que aparecem abaixo do logotipo, compartilham a mesma cor de fonte, podemos utilizar o conceito de **classificação** para que o estilo visual desejado seja compartilhado por mais de um elemento. Para isso, utilizamos o atributo **class**.
+Ao observarmos que os textos *EVANDRO* e *FALLEIROS*, que aparecem abaixo do logotipo, compartilham um mesmo tamanho de fonte, poré, o texto *FALLEIROS* está com cor de fonte distinta, podemos utilizar o conceito de **identificação** em conjunto com as relações de dependência existente entre os elementos para que o estilo visual desejado seja compartilhado por mais de um elemento. Para isso, utilizamos o atributo **id**.
 
-O atributo **class** permite que você possa escrever um conjunto de estilos visuais uma única vez, podendo aplicar esse mesmo estilo para todos os elementos que estão com uma mesma classificação. Durante a aula, o seguinte exemplo foi apresentado:
+O atributo **id** permite que você **identifique** cada elemento **unicamente**. É importante lembrar que **nenhuma identificação pode ser repetida para mais de um elemento**. É só lembrar do CPF no Brasil: cada cidadão tem seu próprio número de identificação, que não é compartilhado por nenhum outro cidadão. 
+
+Durante a aula, o seguinte exemplo foi apresentado:
 
 **Código HTML**
 ```html
